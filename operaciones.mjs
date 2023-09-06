@@ -18,6 +18,6 @@ function div(num1, num2){
     return result;
 }
 
-module.exports = {
+export {
     suma, resta, mult, div
 };
