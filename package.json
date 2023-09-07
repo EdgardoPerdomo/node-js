@@ -1,0 +1,15 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "calculadora creada con commonjs",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "commonjs"
+  ],
+  "author": "Edgardo",
+  "license": "ISC"
+}
